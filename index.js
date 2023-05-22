@@ -29,7 +29,7 @@ $(document).ready(function() {
 
     /// typing animation
     var typed = new Typed(".typing1", {
-        strings: ["Designer", "Programmer", "Blogger", "Developer", "Data Analyst"],
+        strings: ["Designer", "Programmer", "Data scientist", "Developer", "Data Analyst", "Marketer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
